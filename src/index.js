@@ -11,7 +11,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 const name = "Aisyah";
-const year = 2021;
+const year = new Date().getFullYear();
 
 ReactDOM.render(
   <div>
