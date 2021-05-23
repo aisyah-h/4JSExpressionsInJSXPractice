@@ -22,6 +22,9 @@ const year = new Date().getFullYear();
 */
 }
 const currentDate = new Date();
+{
+  /*This line below is just to view the date in console*/
+}
 console.log(currentDate);
 const year1 = currentDate.getFullYear();
 
